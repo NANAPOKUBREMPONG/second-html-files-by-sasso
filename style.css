@@ -1,0 +1,13 @@
+.Heading {
+	text-align: center;
+	 font: Calibre;
+	  font-size: 30; 
+	}
+.picture1 {
+	border-style:solid;
+	 border-color:black ; 
+	 border-radius: 10px;
+	 margin-left: 500px;
+	 width: 300px;
+	}
+	.myinfo{text-align: center;}
